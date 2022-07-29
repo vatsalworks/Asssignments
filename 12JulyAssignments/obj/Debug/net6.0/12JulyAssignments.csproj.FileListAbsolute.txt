@@ -1,0 +1,15 @@
+C:\Users\vatsal.vatsyayan\source\repos\12JulyAssignments\12JulyAssignments\bin\Debug\net6.0\12JulyAssignments.exe
+C:\Users\vatsal.vatsyayan\source\repos\12JulyAssignments\12JulyAssignments\bin\Debug\net6.0\12JulyAssignments.deps.json
+C:\Users\vatsal.vatsyayan\source\repos\12JulyAssignments\12JulyAssignments\bin\Debug\net6.0\12JulyAssignments.runtimeconfig.json
+C:\Users\vatsal.vatsyayan\source\repos\12JulyAssignments\12JulyAssignments\bin\Debug\net6.0\12JulyAssignments.dll
+C:\Users\vatsal.vatsyayan\source\repos\12JulyAssignments\12JulyAssignments\bin\Debug\net6.0\12JulyAssignments.pdb
+C:\Users\vatsal.vatsyayan\source\repos\12JulyAssignments\12JulyAssignments\obj\Debug\net6.0\12JulyAssignments.csproj.AssemblyReference.cache
+C:\Users\vatsal.vatsyayan\source\repos\12JulyAssignments\12JulyAssignments\obj\Debug\net6.0\12JulyAssignments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vatsal.vatsyayan\source\repos\12JulyAssignments\12JulyAssignments\obj\Debug\net6.0\12JulyAssignments.AssemblyInfoInputs.cache
+C:\Users\vatsal.vatsyayan\source\repos\12JulyAssignments\12JulyAssignments\obj\Debug\net6.0\12JulyAssignments.AssemblyInfo.cs
+C:\Users\vatsal.vatsyayan\source\repos\12JulyAssignments\12JulyAssignments\obj\Debug\net6.0\12JulyAssignments.csproj.CoreCompileInputs.cache
+C:\Users\vatsal.vatsyayan\source\repos\12JulyAssignments\12JulyAssignments\obj\Debug\net6.0\12JulyAssignments.dll
+C:\Users\vatsal.vatsyayan\source\repos\12JulyAssignments\12JulyAssignments\obj\Debug\net6.0\refint\12JulyAssignments.dll
+C:\Users\vatsal.vatsyayan\source\repos\12JulyAssignments\12JulyAssignments\obj\Debug\net6.0\12JulyAssignments.pdb
+C:\Users\vatsal.vatsyayan\source\repos\12JulyAssignments\12JulyAssignments\obj\Debug\net6.0\12JulyAssignments.genruntimeconfig.cache
+C:\Users\vatsal.vatsyayan\source\repos\12JulyAssignments\12JulyAssignments\obj\Debug\net6.0\ref\12JulyAssignments.dll
